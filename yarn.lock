@@ -1755,10 +1755,10 @@
     "@uniswap/v3-core" "1.0.0"
     "@uniswap/v3-periphery" "^1.0.1"
 
-"@xswap-v3/v2-sdk@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@xswap-v3/v2-sdk/-/v2-sdk-0.0.2.tgz#448c1b286432dcedd44239823470b36cfe405efd"
-  integrity sha512-rCKiv4GhRqJbzh/uEuokdaVqFMSFb4MIhPDOJVPjOC4dBxSGGIMgFh/lIW2ndhs5k9axIYdNYq+BHB/084e+pw==
+"@xswap-v3/v2-sdk@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@xswap-v3/v2-sdk/-/v2-sdk-1.0.1.tgz#1739f8329d42e8f39857c7d6aaa2b205f670dfa4"
+  integrity sha512-sGsltFHMmSHBYld2okWfkv/UN3EIYoZ9T0eDDhu5z0Y3s9q2I1AhzyDh3f96w92glfyTunlsZcK6wtKjS1WeMw==
   dependencies:
     "@ethersproject/address" "^5.0.0"
     "@ethersproject/solidity" "^5.0.0"
